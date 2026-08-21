@@ -1,0 +1,10 @@
+{
+  "name": "Smart Attendance Chabbe",
+  "short_name": "Chabbe Attendance",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
+  "description": "Smart Attendance Management Application",
+  "icons": []
+}
